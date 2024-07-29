@@ -27,8 +27,8 @@ namespace OpenPortFWDll
     public static class OpenPortFWInfo
     {
         public const string Description = "*This file can open specific port so that firewall allows data transfer via this port, and close it also.";
-        public const string Developer = "Morteza Mahmoudi";
-        public const string EMail = "morteza5054+dll@gmail.com";
+        public const string Developer = "Morteza";
+        public const string EMail = "mortezadvlp@gmail.com";
     }
 
     /// <summary>

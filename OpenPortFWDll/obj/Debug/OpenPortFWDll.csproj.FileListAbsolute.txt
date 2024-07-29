@@ -11,7 +11,6 @@ G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Debug\OpenP
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Debug\OpenPortFWDll.dll
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Debug\OpenPortFWDll.pdb
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Debug\Interop.NetFwTypeLib.dll
-G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Debug\OpenPortFWDll.csprojResolveAssemblyReference.cache
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Debug\Interop.NetFwTypeLib.dll
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Debug\OpenPortFWDll.csproj.ResolveComReference.cache
 G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Debug\OpenPortFWDll.dll
