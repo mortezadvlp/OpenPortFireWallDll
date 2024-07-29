@@ -1,0 +1,17 @@
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.dll
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.pdb
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\Interop.NetFwTypeLib.dll
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\Interop.NetFwTypeLib.dll
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.csproj.ResolveComReference.cache
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.dll
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.pdb
+E:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.XML
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.XML
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.dll
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\OpenPortFWDll.pdb
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\bin\Release\Interop.NetFwTypeLib.dll
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.csprojResolveAssemblyReference.cache
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\Interop.NetFwTypeLib.dll
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.csproj.ResolveComReference.cache
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.dll
+G:\Morteza\CSharp\Projects\Libraries\OpenPortFWDll\OpenPortFWDll\obj\Release\OpenPortFWDll.pdb

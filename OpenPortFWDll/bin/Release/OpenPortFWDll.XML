@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenPortFWDll</name>
+    </assembly>
+    <members>
+        <member name="T:OpenPortFWDll.OpenPortFWInfo">
+            <summary>
+            About this file
+            </summary>
+        </member>
+        <member name="T:OpenPortFWDll.AllowFirewall">
+            <summary>
+            This class can open specific port so that firewall allows data transfer via this port, and close it also
+            </summary>
+        </member>
+        <member name="M:OpenPortFWDll.AllowFirewall.OpenPort(System.Int32,OpenPortFWDll.OpenPortProtocolType,OpenPortFWDll.OpenPortDirection)">
+            <summary>
+            This function can open specific port so that firewall allows data transfer via this port.
+            </summary>
+            <param name="port">Port number that you want to open it</param>
+            <param name="protocol">Protocol that is used</param>
+            <param name="in_out_dir">IN_bound or OUT_bound</param>
+            <returns>Return OpenPortResult</returns>
+        </member>
+        <member name="M:OpenPortFWDll.AllowFirewall.CloseOpenedPort(System.Int32,OpenPortFWDll.OpenPortProtocolType)">
+            <summary>
+            This function closes opened port by 'OpenPort' function.
+            </summary>
+            <param name="port">Port number</param>
+            <param name="protocol">Protocol that is used</param>
+            <returns>Return OpenPortResult</returns>
+        </member>
+    </members>
+</doc>
