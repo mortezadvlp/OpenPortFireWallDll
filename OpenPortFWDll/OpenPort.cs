@@ -26,13 +26,13 @@ namespace OpenPortFWDll
     /// </summary>
     public static class OpenPortFWInfo
     {
-        public const string Description = "*This file can open specific port so that firewall allows data transfer via this port, and close it also.";
+        public const string Description = "By using this dll file you will be able to open and close a specific port on firewall for transferring data through it.";
         public const string Developer = "Morteza";
         public const string EMail = "mortezadvlp@gmail.com";
     }
 
     /// <summary>
-    /// This class can open specific port so that firewall allows data transfer via this port, and close it also
+    /// By using this dll file you will be able to open and close a specific port on firewall for transferring data through it
     /// </summary>
     public class AllowFirewall
     {
